@@ -61,5 +61,5 @@ group :development do
 
   gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
 end
-echo "gem 'rspec-rails', group: [ :test ]"
-echo "gem 'rails-controller-testing', group: [ :test ]"
+gem 'rspec-rails', group: [ :test ]
+gem 'rails-controller-testing', group: [ :test ]"
